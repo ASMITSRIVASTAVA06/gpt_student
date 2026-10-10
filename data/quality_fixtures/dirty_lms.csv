@@ -1,0 +1,10 @@
+student_id,lms_logins_30d,assignment_completion_pct,quiz_average_pct,content_completion_pct
+STU0001,19,81.2,84.8,82.9
+STU0002,28,84.7,84.4,75.4
+STU0003,38,86.4,100.0,83.6
+STU0004,21,55.3,59.4,79.4
+STU0005,22,35.2,46.8,45.4
+STU0006,36,100.0,100.0,92.3
+STU0007,47,93.0,89.0,95.0
+STU0008,30,90.8,78.4,73.7
+STU7777,-2,130.0,missing,55.0

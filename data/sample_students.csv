@@ -1,0 +1,561 @@
+student_id,student_name,department,year,section,advisor,synthetic_demo_record
+STU0001,Synthetic Student 0001,Data Science,4,D,Faculty Mentor 1,True
+STU0002,Synthetic Student 0002,Civil,2,D,Faculty Mentor 3,True
+STU0003,Synthetic Student 0003,Mechanical,4,C,Faculty Mentor 12,True
+STU0004,Synthetic Student 0004,Information Technology,4,B,Faculty Mentor 3,True
+STU0005,Synthetic Student 0005,Computer Science,4,C,Faculty Mentor 5,True
+STU0006,Synthetic Student 0006,Computer Science,1,C,Faculty Mentor 13,True
+STU0007,Synthetic Student 0007,Data Science,3,A,Faculty Mentor 13,True
+STU0008,Synthetic Student 0008,Mechanical,3,C,Faculty Mentor 17,True
+STU0009,Synthetic Student 0009,Electronics,4,B,Faculty Mentor 10,True
+STU0010,Synthetic Student 0010,Data Science,1,D,Faculty Mentor 14,True
+STU0011,Synthetic Student 0011,Electronics,2,D,Faculty Mentor 13,True
+STU0012,Synthetic Student 0012,Data Science,3,C,Faculty Mentor 3,True
+STU0013,Synthetic Student 0013,Computer Science,3,A,Faculty Mentor 13,True
+STU0014,Synthetic Student 0014,Electronics,4,A,Faculty Mentor 3,True
+STU0015,Synthetic Student 0015,Civil,3,C,Faculty Mentor 9,True
+STU0016,Synthetic Student 0016,Civil,1,D,Faculty Mentor 3,True
+STU0017,Synthetic Student 0017,Electronics,4,C,Faculty Mentor 9,True
+STU0018,Synthetic Student 0018,Mechanical,2,D,Faculty Mentor 8,True
+STU0019,Synthetic Student 0019,Civil,1,C,Faculty Mentor 14,True
+STU0020,Synthetic Student 0020,Electronics,3,B,Faculty Mentor 9,True
+STU0021,Synthetic Student 0021,Computer Science,4,C,Faculty Mentor 10,True
+STU0022,Synthetic Student 0022,Information Technology,1,A,Faculty Mentor 3,True
+STU0023,Synthetic Student 0023,Information Technology,2,C,Faculty Mentor 2,True
+STU0024,Synthetic Student 0024,Mechanical,2,D,Faculty Mentor 14,True
+STU0025,Synthetic Student 0025,Computer Science,1,C,Faculty Mentor 15,True
+STU0026,Synthetic Student 0026,Civil,2,B,Faculty Mentor 11,True
+STU0027,Synthetic Student 0027,Data Science,2,A,Faculty Mentor 7,True
+STU0028,Synthetic Student 0028,Civil,1,B,Faculty Mentor 8,True
+STU0029,Synthetic Student 0029,Data Science,3,C,Faculty Mentor 6,True
+STU0030,Synthetic Student 0030,Information Technology,3,A,Faculty Mentor 4,True
+STU0031,Synthetic Student 0031,Information Technology,1,C,Faculty Mentor 18,True
+STU0032,Synthetic Student 0032,Data Science,2,B,Faculty Mentor 6,True
+STU0033,Synthetic Student 0033,Computer Science,4,D,Faculty Mentor 9,True
+STU0034,Synthetic Student 0034,Data Science,3,C,Faculty Mentor 10,True
+STU0035,Synthetic Student 0035,Mechanical,3,D,Faculty Mentor 2,True
+STU0036,Synthetic Student 0036,Electronics,4,B,Faculty Mentor 3,True
+STU0037,Synthetic Student 0037,Computer Science,1,B,Faculty Mentor 7,True
+STU0038,Synthetic Student 0038,Information Technology,2,A,Faculty Mentor 7,True
+STU0039,Synthetic Student 0039,Data Science,3,D,Faculty Mentor 10,True
+STU0040,Synthetic Student 0040,Civil,3,B,Faculty Mentor 16,True
+STU0041,Synthetic Student 0041,Electronics,4,D,Faculty Mentor 3,True
+STU0042,Synthetic Student 0042,Computer Science,2,A,Faculty Mentor 10,True
+STU0043,Synthetic Student 0043,Information Technology,2,C,Faculty Mentor 6,True
+STU0044,Synthetic Student 0044,Computer Science,3,D,Faculty Mentor 8,True
+STU0045,Synthetic Student 0045,Electronics,4,A,Faculty Mentor 1,True
+STU0046,Synthetic Student 0046,Mechanical,3,D,Faculty Mentor 4,True
+STU0047,Synthetic Student 0047,Civil,2,C,Faculty Mentor 4,True
+STU0048,Synthetic Student 0048,Electronics,4,C,Faculty Mentor 7,True
+STU0049,Synthetic Student 0049,Data Science,3,B,Faculty Mentor 18,True
+STU0050,Synthetic Student 0050,Computer Science,3,C,Faculty Mentor 12,True
+STU0051,Synthetic Student 0051,Computer Science,1,C,Faculty Mentor 2,True
+STU0052,Synthetic Student 0052,Civil,3,B,Faculty Mentor 1,True
+STU0053,Synthetic Student 0053,Data Science,4,A,Faculty Mentor 16,True
+STU0054,Synthetic Student 0054,Electronics,2,A,Faculty Mentor 7,True
+STU0055,Synthetic Student 0055,Computer Science,2,C,Faculty Mentor 3,True
+STU0056,Synthetic Student 0056,Civil,2,D,Faculty Mentor 7,True
+STU0057,Synthetic Student 0057,Mechanical,3,D,Faculty Mentor 6,True
+STU0058,Synthetic Student 0058,Electronics,3,C,Faculty Mentor 1,True
+STU0059,Synthetic Student 0059,Electronics,3,C,Faculty Mentor 8,True
+STU0060,Synthetic Student 0060,Civil,1,B,Faculty Mentor 2,True
+STU0061,Synthetic Student 0061,Electronics,2,D,Faculty Mentor 1,True
+STU0062,Synthetic Student 0062,Civil,2,B,Faculty Mentor 2,True
+STU0063,Synthetic Student 0063,Data Science,3,C,Faculty Mentor 3,True
+STU0064,Synthetic Student 0064,Computer Science,1,D,Faculty Mentor 7,True
+STU0065,Synthetic Student 0065,Civil,4,B,Faculty Mentor 7,True
+STU0066,Synthetic Student 0066,Data Science,3,C,Faculty Mentor 18,True
+STU0067,Synthetic Student 0067,Data Science,1,D,Faculty Mentor 13,True
+STU0068,Synthetic Student 0068,Information Technology,1,C,Faculty Mentor 8,True
+STU0069,Synthetic Student 0069,Information Technology,1,B,Faculty Mentor 3,True
+STU0070,Synthetic Student 0070,Civil,2,A,Faculty Mentor 8,True
+STU0071,Synthetic Student 0071,Electronics,1,D,Faculty Mentor 15,True
+STU0072,Synthetic Student 0072,Data Science,3,B,Faculty Mentor 13,True
+STU0073,Synthetic Student 0073,Civil,2,C,Faculty Mentor 17,True
+STU0074,Synthetic Student 0074,Civil,2,A,Faculty Mentor 11,True
+STU0075,Synthetic Student 0075,Mechanical,3,D,Faculty Mentor 9,True
+STU0076,Synthetic Student 0076,Electronics,1,D,Faculty Mentor 10,True
+STU0077,Synthetic Student 0077,Computer Science,4,C,Faculty Mentor 4,True
+STU0078,Synthetic Student 0078,Information Technology,4,D,Faculty Mentor 11,True
+STU0079,Synthetic Student 0079,Computer Science,4,C,Faculty Mentor 7,True
+STU0080,Synthetic Student 0080,Data Science,4,B,Faculty Mentor 2,True
+STU0081,Synthetic Student 0081,Data Science,2,D,Faculty Mentor 8,True
+STU0082,Synthetic Student 0082,Data Science,1,B,Faculty Mentor 2,True
+STU0083,Synthetic Student 0083,Computer Science,1,B,Faculty Mentor 14,True
+STU0084,Synthetic Student 0084,Mechanical,1,D,Faculty Mentor 8,True
+STU0085,Synthetic Student 0085,Computer Science,3,C,Faculty Mentor 3,True
+STU0086,Synthetic Student 0086,Civil,4,B,Faculty Mentor 11,True
+STU0087,Synthetic Student 0087,Electronics,3,B,Faculty Mentor 3,True
+STU0088,Synthetic Student 0088,Computer Science,4,A,Faculty Mentor 10,True
+STU0089,Synthetic Student 0089,Information Technology,2,D,Faculty Mentor 5,True
+STU0090,Synthetic Student 0090,Information Technology,1,C,Faculty Mentor 1,True
+STU0091,Synthetic Student 0091,Computer Science,4,D,Faculty Mentor 16,True
+STU0092,Synthetic Student 0092,Information Technology,4,A,Faculty Mentor 1,True
+STU0093,Synthetic Student 0093,Information Technology,1,B,Faculty Mentor 16,True
+STU0094,Synthetic Student 0094,Data Science,4,C,Faculty Mentor 2,True
+STU0095,Synthetic Student 0095,Civil,2,C,Faculty Mentor 12,True
+STU0096,Synthetic Student 0096,Computer Science,2,A,Faculty Mentor 1,True
+STU0097,Synthetic Student 0097,Computer Science,3,C,Faculty Mentor 11,True
+STU0098,Synthetic Student 0098,Data Science,2,C,Faculty Mentor 9,True
+STU0099,Synthetic Student 0099,Information Technology,4,A,Faculty Mentor 4,True
+STU0100,Synthetic Student 0100,Civil,3,A,Faculty Mentor 13,True
+STU0101,Synthetic Student 0101,Information Technology,4,D,Faculty Mentor 11,True
+STU0102,Synthetic Student 0102,Civil,4,B,Faculty Mentor 2,True
+STU0103,Synthetic Student 0103,Mechanical,3,D,Faculty Mentor 12,True
+STU0104,Synthetic Student 0104,Electronics,3,B,Faculty Mentor 14,True
+STU0105,Synthetic Student 0105,Mechanical,1,A,Faculty Mentor 13,True
+STU0106,Synthetic Student 0106,Data Science,2,A,Faculty Mentor 18,True
+STU0107,Synthetic Student 0107,Civil,2,A,Faculty Mentor 7,True
+STU0108,Synthetic Student 0108,Electronics,3,A,Faculty Mentor 12,True
+STU0109,Synthetic Student 0109,Data Science,1,D,Faculty Mentor 18,True
+STU0110,Synthetic Student 0110,Information Technology,2,D,Faculty Mentor 7,True
+STU0111,Synthetic Student 0111,Computer Science,1,B,Faculty Mentor 16,True
+STU0112,Synthetic Student 0112,Data Science,2,A,Faculty Mentor 14,True
+STU0113,Synthetic Student 0113,Electronics,1,B,Faculty Mentor 9,True
+STU0114,Synthetic Student 0114,Information Technology,4,B,Faculty Mentor 8,True
+STU0115,Synthetic Student 0115,Electronics,3,B,Faculty Mentor 3,True
+STU0116,Synthetic Student 0116,Computer Science,3,B,Faculty Mentor 6,True
+STU0117,Synthetic Student 0117,Information Technology,3,B,Faculty Mentor 15,True
+STU0118,Synthetic Student 0118,Electronics,1,A,Faculty Mentor 7,True
+STU0119,Synthetic Student 0119,Computer Science,2,B,Faculty Mentor 15,True
+STU0120,Synthetic Student 0120,Information Technology,3,A,Faculty Mentor 16,True
+STU0121,Synthetic Student 0121,Data Science,3,C,Faculty Mentor 6,True
+STU0122,Synthetic Student 0122,Mechanical,2,B,Faculty Mentor 1,True
+STU0123,Synthetic Student 0123,Computer Science,2,D,Faculty Mentor 15,True
+STU0124,Synthetic Student 0124,Civil,3,C,Faculty Mentor 15,True
+STU0125,Synthetic Student 0125,Electronics,1,B,Faculty Mentor 11,True
+STU0126,Synthetic Student 0126,Mechanical,2,D,Faculty Mentor 14,True
+STU0127,Synthetic Student 0127,Data Science,2,D,Faculty Mentor 17,True
+STU0128,Synthetic Student 0128,Civil,4,D,Faculty Mentor 4,True
+STU0129,Synthetic Student 0129,Electronics,1,A,Faculty Mentor 14,True
+STU0130,Synthetic Student 0130,Data Science,2,D,Faculty Mentor 12,True
+STU0131,Synthetic Student 0131,Information Technology,2,A,Faculty Mentor 12,True
+STU0132,Synthetic Student 0132,Electronics,2,B,Faculty Mentor 18,True
+STU0133,Synthetic Student 0133,Civil,2,A,Faculty Mentor 1,True
+STU0134,Synthetic Student 0134,Computer Science,2,D,Faculty Mentor 13,True
+STU0135,Synthetic Student 0135,Data Science,4,A,Faculty Mentor 11,True
+STU0136,Synthetic Student 0136,Electronics,1,B,Faculty Mentor 18,True
+STU0137,Synthetic Student 0137,Computer Science,3,D,Faculty Mentor 9,True
+STU0138,Synthetic Student 0138,Mechanical,1,A,Faculty Mentor 7,True
+STU0139,Synthetic Student 0139,Mechanical,2,D,Faculty Mentor 15,True
+STU0140,Synthetic Student 0140,Mechanical,4,B,Faculty Mentor 5,True
+STU0141,Synthetic Student 0141,Civil,3,A,Faculty Mentor 4,True
+STU0142,Synthetic Student 0142,Electronics,1,A,Faculty Mentor 4,True
+STU0143,Synthetic Student 0143,Data Science,1,C,Faculty Mentor 12,True
+STU0144,Synthetic Student 0144,Civil,2,C,Faculty Mentor 8,True
+STU0145,Synthetic Student 0145,Information Technology,4,A,Faculty Mentor 9,True
+STU0146,Synthetic Student 0146,Computer Science,1,D,Faculty Mentor 14,True
+STU0147,Synthetic Student 0147,Mechanical,2,A,Faculty Mentor 12,True
+STU0148,Synthetic Student 0148,Electronics,1,A,Faculty Mentor 12,True
+STU0149,Synthetic Student 0149,Information Technology,2,A,Faculty Mentor 18,True
+STU0150,Synthetic Student 0150,Electronics,3,A,Faculty Mentor 4,True
+STU0151,Synthetic Student 0151,Mechanical,3,C,Faculty Mentor 6,True
+STU0152,Synthetic Student 0152,Computer Science,1,B,Faculty Mentor 6,True
+STU0153,Synthetic Student 0153,Mechanical,2,D,Faculty Mentor 7,True
+STU0154,Synthetic Student 0154,Data Science,3,A,Faculty Mentor 11,True
+STU0155,Synthetic Student 0155,Computer Science,2,D,Faculty Mentor 16,True
+STU0156,Synthetic Student 0156,Civil,1,C,Faculty Mentor 6,True
+STU0157,Synthetic Student 0157,Mechanical,4,A,Faculty Mentor 18,True
+STU0158,Synthetic Student 0158,Computer Science,2,A,Faculty Mentor 13,True
+STU0159,Synthetic Student 0159,Computer Science,1,A,Faculty Mentor 18,True
+STU0160,Synthetic Student 0160,Computer Science,1,D,Faculty Mentor 7,True
+STU0161,Synthetic Student 0161,Data Science,2,D,Faculty Mentor 4,True
+STU0162,Synthetic Student 0162,Civil,2,B,Faculty Mentor 17,True
+STU0163,Synthetic Student 0163,Civil,2,A,Faculty Mentor 12,True
+STU0164,Synthetic Student 0164,Mechanical,2,C,Faculty Mentor 15,True
+STU0165,Synthetic Student 0165,Electronics,3,A,Faculty Mentor 1,True
+STU0166,Synthetic Student 0166,Data Science,4,A,Faculty Mentor 9,True
+STU0167,Synthetic Student 0167,Mechanical,1,D,Faculty Mentor 3,True
+STU0168,Synthetic Student 0168,Information Technology,1,B,Faculty Mentor 11,True
+STU0169,Synthetic Student 0169,Electronics,1,D,Faculty Mentor 5,True
+STU0170,Synthetic Student 0170,Data Science,4,C,Faculty Mentor 15,True
+STU0171,Synthetic Student 0171,Mechanical,2,B,Faculty Mentor 5,True
+STU0172,Synthetic Student 0172,Mechanical,3,C,Faculty Mentor 9,True
+STU0173,Synthetic Student 0173,Civil,4,B,Faculty Mentor 15,True
+STU0174,Synthetic Student 0174,Computer Science,1,B,Faculty Mentor 2,True
+STU0175,Synthetic Student 0175,Mechanical,4,C,Faculty Mentor 15,True
+STU0176,Synthetic Student 0176,Electronics,3,B,Faculty Mentor 7,True
+STU0177,Synthetic Student 0177,Electronics,2,A,Faculty Mentor 4,True
+STU0178,Synthetic Student 0178,Civil,4,D,Faculty Mentor 18,True
+STU0179,Synthetic Student 0179,Information Technology,1,D,Faculty Mentor 2,True
+STU0180,Synthetic Student 0180,Mechanical,2,B,Faculty Mentor 18,True
+STU0181,Synthetic Student 0181,Information Technology,4,C,Faculty Mentor 16,True
+STU0182,Synthetic Student 0182,Computer Science,2,B,Faculty Mentor 5,True
+STU0183,Synthetic Student 0183,Data Science,2,D,Faculty Mentor 6,True
+STU0184,Synthetic Student 0184,Information Technology,3,A,Faculty Mentor 1,True
+STU0185,Synthetic Student 0185,Data Science,2,D,Faculty Mentor 13,True
+STU0186,Synthetic Student 0186,Information Technology,3,A,Faculty Mentor 16,True
+STU0187,Synthetic Student 0187,Information Technology,2,C,Faculty Mentor 5,True
+STU0188,Synthetic Student 0188,Civil,3,A,Faculty Mentor 17,True
+STU0189,Synthetic Student 0189,Civil,3,D,Faculty Mentor 1,True
+STU0190,Synthetic Student 0190,Electronics,1,A,Faculty Mentor 14,True
+STU0191,Synthetic Student 0191,Data Science,3,A,Faculty Mentor 14,True
+STU0192,Synthetic Student 0192,Electronics,1,C,Faculty Mentor 18,True
+STU0193,Synthetic Student 0193,Mechanical,1,D,Faculty Mentor 8,True
+STU0194,Synthetic Student 0194,Electronics,3,C,Faculty Mentor 7,True
+STU0195,Synthetic Student 0195,Electronics,4,A,Faculty Mentor 3,True
+STU0196,Synthetic Student 0196,Electronics,4,B,Faculty Mentor 17,True
+STU0197,Synthetic Student 0197,Data Science,4,C,Faculty Mentor 10,True
+STU0198,Synthetic Student 0198,Electronics,1,B,Faculty Mentor 11,True
+STU0199,Synthetic Student 0199,Mechanical,3,D,Faculty Mentor 6,True
+STU0200,Synthetic Student 0200,Information Technology,3,C,Faculty Mentor 2,True
+STU0201,Synthetic Student 0201,Data Science,4,A,Faculty Mentor 6,True
+STU0202,Synthetic Student 0202,Mechanical,3,A,Faculty Mentor 4,True
+STU0203,Synthetic Student 0203,Information Technology,2,D,Faculty Mentor 10,True
+STU0204,Synthetic Student 0204,Civil,3,B,Faculty Mentor 14,True
+STU0205,Synthetic Student 0205,Electronics,2,C,Faculty Mentor 4,True
+STU0206,Synthetic Student 0206,Civil,1,D,Faculty Mentor 11,True
+STU0207,Synthetic Student 0207,Data Science,1,B,Faculty Mentor 18,True
+STU0208,Synthetic Student 0208,Mechanical,2,D,Faculty Mentor 17,True
+STU0209,Synthetic Student 0209,Computer Science,3,D,Faculty Mentor 17,True
+STU0210,Synthetic Student 0210,Computer Science,3,C,Faculty Mentor 9,True
+STU0211,Synthetic Student 0211,Computer Science,2,A,Faculty Mentor 9,True
+STU0212,Synthetic Student 0212,Data Science,1,C,Faculty Mentor 17,True
+STU0213,Synthetic Student 0213,Mechanical,3,A,Faculty Mentor 18,True
+STU0214,Synthetic Student 0214,Information Technology,3,C,Faculty Mentor 1,True
+STU0215,Synthetic Student 0215,Data Science,2,B,Faculty Mentor 13,True
+STU0216,Synthetic Student 0216,Electronics,2,D,Faculty Mentor 7,True
+STU0217,Synthetic Student 0217,Civil,2,D,Faculty Mentor 17,True
+STU0218,Synthetic Student 0218,Civil,4,D,Faculty Mentor 10,True
+STU0219,Synthetic Student 0219,Computer Science,3,B,Faculty Mentor 15,True
+STU0220,Synthetic Student 0220,Information Technology,4,A,Faculty Mentor 10,True
+STU0221,Synthetic Student 0221,Civil,1,B,Faculty Mentor 7,True
+STU0222,Synthetic Student 0222,Civil,4,A,Faculty Mentor 5,True
+STU0223,Synthetic Student 0223,Mechanical,2,C,Faculty Mentor 9,True
+STU0224,Synthetic Student 0224,Data Science,4,D,Faculty Mentor 4,True
+STU0225,Synthetic Student 0225,Mechanical,2,A,Faculty Mentor 6,True
+STU0226,Synthetic Student 0226,Electronics,4,D,Faculty Mentor 5,True
+STU0227,Synthetic Student 0227,Electronics,3,B,Faculty Mentor 10,True
+STU0228,Synthetic Student 0228,Mechanical,4,B,Faculty Mentor 3,True
+STU0229,Synthetic Student 0229,Data Science,3,D,Faculty Mentor 8,True
+STU0230,Synthetic Student 0230,Computer Science,2,D,Faculty Mentor 6,True
+STU0231,Synthetic Student 0231,Mechanical,3,B,Faculty Mentor 1,True
+STU0232,Synthetic Student 0232,Computer Science,1,B,Faculty Mentor 6,True
+STU0233,Synthetic Student 0233,Information Technology,3,A,Faculty Mentor 10,True
+STU0234,Synthetic Student 0234,Data Science,2,B,Faculty Mentor 17,True
+STU0235,Synthetic Student 0235,Mechanical,3,A,Faculty Mentor 16,True
+STU0236,Synthetic Student 0236,Data Science,3,B,Faculty Mentor 12,True
+STU0237,Synthetic Student 0237,Electronics,1,B,Faculty Mentor 7,True
+STU0238,Synthetic Student 0238,Civil,2,D,Faculty Mentor 2,True
+STU0239,Synthetic Student 0239,Information Technology,4,B,Faculty Mentor 18,True
+STU0240,Synthetic Student 0240,Mechanical,4,C,Faculty Mentor 15,True
+STU0241,Synthetic Student 0241,Civil,4,C,Faculty Mentor 5,True
+STU0242,Synthetic Student 0242,Information Technology,3,D,Faculty Mentor 3,True
+STU0243,Synthetic Student 0243,Computer Science,2,B,Faculty Mentor 17,True
+STU0244,Synthetic Student 0244,Computer Science,2,C,Faculty Mentor 1,True
+STU0245,Synthetic Student 0245,Information Technology,4,A,Faculty Mentor 3,True
+STU0246,Synthetic Student 0246,Data Science,3,A,Faculty Mentor 15,True
+STU0247,Synthetic Student 0247,Civil,1,A,Faculty Mentor 18,True
+STU0248,Synthetic Student 0248,Mechanical,1,A,Faculty Mentor 2,True
+STU0249,Synthetic Student 0249,Electronics,3,C,Faculty Mentor 8,True
+STU0250,Synthetic Student 0250,Electronics,1,C,Faculty Mentor 13,True
+STU0251,Synthetic Student 0251,Information Technology,2,B,Faculty Mentor 7,True
+STU0252,Synthetic Student 0252,Electronics,3,D,Faculty Mentor 1,True
+STU0253,Synthetic Student 0253,Data Science,2,C,Faculty Mentor 11,True
+STU0254,Synthetic Student 0254,Data Science,4,B,Faculty Mentor 7,True
+STU0255,Synthetic Student 0255,Civil,4,B,Faculty Mentor 14,True
+STU0256,Synthetic Student 0256,Computer Science,4,B,Faculty Mentor 1,True
+STU0257,Synthetic Student 0257,Data Science,2,C,Faculty Mentor 10,True
+STU0258,Synthetic Student 0258,Electronics,1,C,Faculty Mentor 9,True
+STU0259,Synthetic Student 0259,Electronics,4,A,Faculty Mentor 8,True
+STU0260,Synthetic Student 0260,Mechanical,2,D,Faculty Mentor 3,True
+STU0261,Synthetic Student 0261,Electronics,4,A,Faculty Mentor 11,True
+STU0262,Synthetic Student 0262,Information Technology,4,D,Faculty Mentor 11,True
+STU0263,Synthetic Student 0263,Electronics,1,C,Faculty Mentor 6,True
+STU0264,Synthetic Student 0264,Civil,1,C,Faculty Mentor 6,True
+STU0265,Synthetic Student 0265,Information Technology,2,D,Faculty Mentor 17,True
+STU0266,Synthetic Student 0266,Information Technology,4,A,Faculty Mentor 6,True
+STU0267,Synthetic Student 0267,Electronics,3,D,Faculty Mentor 14,True
+STU0268,Synthetic Student 0268,Mechanical,2,B,Faculty Mentor 4,True
+STU0269,Synthetic Student 0269,Civil,2,B,Faculty Mentor 4,True
+STU0270,Synthetic Student 0270,Computer Science,1,C,Faculty Mentor 8,True
+STU0271,Synthetic Student 0271,Civil,2,D,Faculty Mentor 14,True
+STU0272,Synthetic Student 0272,Civil,2,D,Faculty Mentor 10,True
+STU0273,Synthetic Student 0273,Civil,2,D,Faculty Mentor 15,True
+STU0274,Synthetic Student 0274,Computer Science,4,B,Faculty Mentor 8,True
+STU0275,Synthetic Student 0275,Electronics,4,B,Faculty Mentor 14,True
+STU0276,Synthetic Student 0276,Computer Science,2,B,Faculty Mentor 1,True
+STU0277,Synthetic Student 0277,Information Technology,1,C,Faculty Mentor 13,True
+STU0278,Synthetic Student 0278,Mechanical,2,A,Faculty Mentor 14,True
+STU0279,Synthetic Student 0279,Electronics,1,C,Faculty Mentor 14,True
+STU0280,Synthetic Student 0280,Civil,2,B,Faculty Mentor 18,True
+STU0281,Synthetic Student 0281,Computer Science,3,A,Faculty Mentor 18,True
+STU0282,Synthetic Student 0282,Information Technology,4,B,Faculty Mentor 15,True
+STU0283,Synthetic Student 0283,Data Science,3,B,Faculty Mentor 14,True
+STU0284,Synthetic Student 0284,Computer Science,4,B,Faculty Mentor 9,True
+STU0285,Synthetic Student 0285,Mechanical,1,A,Faculty Mentor 4,True
+STU0286,Synthetic Student 0286,Information Technology,2,A,Faculty Mentor 15,True
+STU0287,Synthetic Student 0287,Civil,1,B,Faculty Mentor 15,True
+STU0288,Synthetic Student 0288,Data Science,1,B,Faculty Mentor 8,True
+STU0289,Synthetic Student 0289,Civil,2,A,Faculty Mentor 12,True
+STU0290,Synthetic Student 0290,Electronics,3,C,Faculty Mentor 13,True
+STU0291,Synthetic Student 0291,Computer Science,1,D,Faculty Mentor 2,True
+STU0292,Synthetic Student 0292,Computer Science,1,D,Faculty Mentor 14,True
+STU0293,Synthetic Student 0293,Mechanical,1,B,Faculty Mentor 4,True
+STU0294,Synthetic Student 0294,Electronics,3,A,Faculty Mentor 8,True
+STU0295,Synthetic Student 0295,Computer Science,3,A,Faculty Mentor 1,True
+STU0296,Synthetic Student 0296,Electronics,3,C,Faculty Mentor 18,True
+STU0297,Synthetic Student 0297,Electronics,3,D,Faculty Mentor 16,True
+STU0298,Synthetic Student 0298,Data Science,2,C,Faculty Mentor 16,True
+STU0299,Synthetic Student 0299,Mechanical,2,A,Faculty Mentor 17,True
+STU0300,Synthetic Student 0300,Civil,1,D,Faculty Mentor 16,True
+STU0301,Synthetic Student 0301,Information Technology,3,C,Faculty Mentor 4,True
+STU0302,Synthetic Student 0302,Information Technology,1,A,Faculty Mentor 16,True
+STU0303,Synthetic Student 0303,Data Science,4,B,Faculty Mentor 2,True
+STU0304,Synthetic Student 0304,Data Science,3,A,Faculty Mentor 2,True
+STU0305,Synthetic Student 0305,Mechanical,3,A,Faculty Mentor 15,True
+STU0306,Synthetic Student 0306,Computer Science,2,A,Faculty Mentor 3,True
+STU0307,Synthetic Student 0307,Mechanical,4,D,Faculty Mentor 8,True
+STU0308,Synthetic Student 0308,Mechanical,1,B,Faculty Mentor 16,True
+STU0309,Synthetic Student 0309,Mechanical,2,D,Faculty Mentor 14,True
+STU0310,Synthetic Student 0310,Data Science,3,B,Faculty Mentor 15,True
+STU0311,Synthetic Student 0311,Data Science,2,A,Faculty Mentor 5,True
+STU0312,Synthetic Student 0312,Civil,3,D,Faculty Mentor 4,True
+STU0313,Synthetic Student 0313,Mechanical,1,C,Faculty Mentor 15,True
+STU0314,Synthetic Student 0314,Information Technology,3,C,Faculty Mentor 7,True
+STU0315,Synthetic Student 0315,Electronics,1,C,Faculty Mentor 1,True
+STU0316,Synthetic Student 0316,Electronics,3,A,Faculty Mentor 12,True
+STU0317,Synthetic Student 0317,Computer Science,1,C,Faculty Mentor 9,True
+STU0318,Synthetic Student 0318,Computer Science,2,B,Faculty Mentor 13,True
+STU0319,Synthetic Student 0319,Data Science,3,D,Faculty Mentor 2,True
+STU0320,Synthetic Student 0320,Data Science,4,A,Faculty Mentor 3,True
+STU0321,Synthetic Student 0321,Mechanical,3,A,Faculty Mentor 15,True
+STU0322,Synthetic Student 0322,Data Science,4,C,Faculty Mentor 3,True
+STU0323,Synthetic Student 0323,Mechanical,3,C,Faculty Mentor 1,True
+STU0324,Synthetic Student 0324,Mechanical,2,B,Faculty Mentor 15,True
+STU0325,Synthetic Student 0325,Information Technology,3,A,Faculty Mentor 3,True
+STU0326,Synthetic Student 0326,Mechanical,2,B,Faculty Mentor 17,True
+STU0327,Synthetic Student 0327,Civil,1,C,Faculty Mentor 1,True
+STU0328,Synthetic Student 0328,Information Technology,1,B,Faculty Mentor 6,True
+STU0329,Synthetic Student 0329,Data Science,3,B,Faculty Mentor 1,True
+STU0330,Synthetic Student 0330,Electronics,4,B,Faculty Mentor 1,True
+STU0331,Synthetic Student 0331,Mechanical,3,D,Faculty Mentor 14,True
+STU0332,Synthetic Student 0332,Mechanical,4,A,Faculty Mentor 8,True
+STU0333,Synthetic Student 0333,Information Technology,3,B,Faculty Mentor 4,True
+STU0334,Synthetic Student 0334,Computer Science,2,A,Faculty Mentor 11,True
+STU0335,Synthetic Student 0335,Computer Science,1,D,Faculty Mentor 9,True
+STU0336,Synthetic Student 0336,Electronics,1,B,Faculty Mentor 15,True
+STU0337,Synthetic Student 0337,Information Technology,4,A,Faculty Mentor 14,True
+STU0338,Synthetic Student 0338,Data Science,2,A,Faculty Mentor 8,True
+STU0339,Synthetic Student 0339,Data Science,1,C,Faculty Mentor 14,True
+STU0340,Synthetic Student 0340,Data Science,2,C,Faculty Mentor 2,True
+STU0341,Synthetic Student 0341,Data Science,4,B,Faculty Mentor 2,True
+STU0342,Synthetic Student 0342,Data Science,3,D,Faculty Mentor 9,True
+STU0343,Synthetic Student 0343,Data Science,4,A,Faculty Mentor 15,True
+STU0344,Synthetic Student 0344,Computer Science,1,C,Faculty Mentor 3,True
+STU0345,Synthetic Student 0345,Information Technology,3,A,Faculty Mentor 14,True
+STU0346,Synthetic Student 0346,Computer Science,1,A,Faculty Mentor 12,True
+STU0347,Synthetic Student 0347,Mechanical,3,C,Faculty Mentor 9,True
+STU0348,Synthetic Student 0348,Electronics,4,C,Faculty Mentor 2,True
+STU0349,Synthetic Student 0349,Computer Science,2,A,Faculty Mentor 8,True
+STU0350,Synthetic Student 0350,Electronics,1,B,Faculty Mentor 11,True
+STU0351,Synthetic Student 0351,Mechanical,2,C,Faculty Mentor 13,True
+STU0352,Synthetic Student 0352,Computer Science,1,B,Faculty Mentor 5,True
+STU0353,Synthetic Student 0353,Civil,4,B,Faculty Mentor 15,True
+STU0354,Synthetic Student 0354,Information Technology,3,C,Faculty Mentor 1,True
+STU0355,Synthetic Student 0355,Mechanical,1,C,Faculty Mentor 5,True
+STU0356,Synthetic Student 0356,Computer Science,1,D,Faculty Mentor 11,True
+STU0357,Synthetic Student 0357,Computer Science,3,D,Faculty Mentor 1,True
+STU0358,Synthetic Student 0358,Data Science,1,A,Faculty Mentor 2,True
+STU0359,Synthetic Student 0359,Electronics,3,D,Faculty Mentor 5,True
+STU0360,Synthetic Student 0360,Computer Science,2,C,Faculty Mentor 14,True
+STU0361,Synthetic Student 0361,Information Technology,1,A,Faculty Mentor 14,True
+STU0362,Synthetic Student 0362,Data Science,2,B,Faculty Mentor 3,True
+STU0363,Synthetic Student 0363,Electronics,3,D,Faculty Mentor 18,True
+STU0364,Synthetic Student 0364,Information Technology,3,C,Faculty Mentor 9,True
+STU0365,Synthetic Student 0365,Mechanical,2,D,Faculty Mentor 18,True
+STU0366,Synthetic Student 0366,Computer Science,4,B,Faculty Mentor 11,True
+STU0367,Synthetic Student 0367,Information Technology,1,C,Faculty Mentor 17,True
+STU0368,Synthetic Student 0368,Civil,1,C,Faculty Mentor 5,True
+STU0369,Synthetic Student 0369,Civil,1,D,Faculty Mentor 10,True
+STU0370,Synthetic Student 0370,Civil,2,A,Faculty Mentor 5,True
+STU0371,Synthetic Student 0371,Data Science,1,B,Faculty Mentor 1,True
+STU0372,Synthetic Student 0372,Data Science,4,D,Faculty Mentor 4,True
+STU0373,Synthetic Student 0373,Civil,4,B,Faculty Mentor 5,True
+STU0374,Synthetic Student 0374,Electronics,2,A,Faculty Mentor 2,True
+STU0375,Synthetic Student 0375,Electronics,4,B,Faculty Mentor 9,True
+STU0376,Synthetic Student 0376,Information Technology,2,A,Faculty Mentor 1,True
+STU0377,Synthetic Student 0377,Civil,1,D,Faculty Mentor 13,True
+STU0378,Synthetic Student 0378,Data Science,3,D,Faculty Mentor 9,True
+STU0379,Synthetic Student 0379,Data Science,2,A,Faculty Mentor 1,True
+STU0380,Synthetic Student 0380,Civil,2,C,Faculty Mentor 17,True
+STU0381,Synthetic Student 0381,Electronics,3,A,Faculty Mentor 10,True
+STU0382,Synthetic Student 0382,Electronics,1,B,Faculty Mentor 4,True
+STU0383,Synthetic Student 0383,Data Science,3,D,Faculty Mentor 13,True
+STU0384,Synthetic Student 0384,Data Science,1,C,Faculty Mentor 17,True
+STU0385,Synthetic Student 0385,Electronics,2,D,Faculty Mentor 1,True
+STU0386,Synthetic Student 0386,Information Technology,4,C,Faculty Mentor 16,True
+STU0387,Synthetic Student 0387,Computer Science,1,A,Faculty Mentor 14,True
+STU0388,Synthetic Student 0388,Information Technology,4,B,Faculty Mentor 2,True
+STU0389,Synthetic Student 0389,Electronics,4,B,Faculty Mentor 9,True
+STU0390,Synthetic Student 0390,Electronics,3,B,Faculty Mentor 15,True
+STU0391,Synthetic Student 0391,Computer Science,4,B,Faculty Mentor 7,True
+STU0392,Synthetic Student 0392,Data Science,4,D,Faculty Mentor 4,True
+STU0393,Synthetic Student 0393,Computer Science,1,B,Faculty Mentor 18,True
+STU0394,Synthetic Student 0394,Data Science,2,B,Faculty Mentor 14,True
+STU0395,Synthetic Student 0395,Computer Science,2,A,Faculty Mentor 8,True
+STU0396,Synthetic Student 0396,Electronics,2,C,Faculty Mentor 3,True
+STU0397,Synthetic Student 0397,Data Science,1,A,Faculty Mentor 16,True
+STU0398,Synthetic Student 0398,Data Science,2,B,Faculty Mentor 12,True
+STU0399,Synthetic Student 0399,Civil,1,D,Faculty Mentor 15,True
+STU0400,Synthetic Student 0400,Electronics,4,B,Faculty Mentor 4,True
+STU0401,Synthetic Student 0401,Mechanical,2,C,Faculty Mentor 6,True
+STU0402,Synthetic Student 0402,Electronics,1,A,Faculty Mentor 17,True
+STU0403,Synthetic Student 0403,Mechanical,1,A,Faculty Mentor 10,True
+STU0404,Synthetic Student 0404,Electronics,1,B,Faculty Mentor 5,True
+STU0405,Synthetic Student 0405,Electronics,2,C,Faculty Mentor 5,True
+STU0406,Synthetic Student 0406,Information Technology,2,B,Faculty Mentor 1,True
+STU0407,Synthetic Student 0407,Information Technology,3,C,Faculty Mentor 13,True
+STU0408,Synthetic Student 0408,Civil,2,C,Faculty Mentor 9,True
+STU0409,Synthetic Student 0409,Data Science,2,C,Faculty Mentor 11,True
+STU0410,Synthetic Student 0410,Civil,4,B,Faculty Mentor 3,True
+STU0411,Synthetic Student 0411,Information Technology,3,A,Faculty Mentor 11,True
+STU0412,Synthetic Student 0412,Information Technology,2,D,Faculty Mentor 11,True
+STU0413,Synthetic Student 0413,Civil,4,B,Faculty Mentor 12,True
+STU0414,Synthetic Student 0414,Data Science,3,B,Faculty Mentor 3,True
+STU0415,Synthetic Student 0415,Information Technology,2,B,Faculty Mentor 15,True
+STU0416,Synthetic Student 0416,Information Technology,1,B,Faculty Mentor 1,True
+STU0417,Synthetic Student 0417,Data Science,1,D,Faculty Mentor 18,True
+STU0418,Synthetic Student 0418,Information Technology,4,D,Faculty Mentor 17,True
+STU0419,Synthetic Student 0419,Data Science,4,D,Faculty Mentor 8,True
+STU0420,Synthetic Student 0420,Electronics,4,A,Faculty Mentor 13,True
+STU0421,Synthetic Student 0421,Computer Science,2,B,Faculty Mentor 1,True
+STU0422,Synthetic Student 0422,Electronics,4,D,Faculty Mentor 4,True
+STU0423,Synthetic Student 0423,Civil,4,D,Faculty Mentor 11,True
+STU0424,Synthetic Student 0424,Mechanical,4,D,Faculty Mentor 1,True
+STU0425,Synthetic Student 0425,Data Science,3,D,Faculty Mentor 13,True
+STU0426,Synthetic Student 0426,Mechanical,2,D,Faculty Mentor 6,True
+STU0427,Synthetic Student 0427,Civil,3,D,Faculty Mentor 14,True
+STU0428,Synthetic Student 0428,Civil,2,A,Faculty Mentor 3,True
+STU0429,Synthetic Student 0429,Mechanical,2,A,Faculty Mentor 13,True
+STU0430,Synthetic Student 0430,Computer Science,4,C,Faculty Mentor 10,True
+STU0431,Synthetic Student 0431,Civil,4,A,Faculty Mentor 1,True
+STU0432,Synthetic Student 0432,Computer Science,2,C,Faculty Mentor 10,True
+STU0433,Synthetic Student 0433,Information Technology,2,B,Faculty Mentor 6,True
+STU0434,Synthetic Student 0434,Civil,3,B,Faculty Mentor 13,True
+STU0435,Synthetic Student 0435,Mechanical,1,D,Faculty Mentor 10,True
+STU0436,Synthetic Student 0436,Civil,3,B,Faculty Mentor 11,True
+STU0437,Synthetic Student 0437,Civil,4,B,Faculty Mentor 14,True
+STU0438,Synthetic Student 0438,Data Science,4,B,Faculty Mentor 3,True
+STU0439,Synthetic Student 0439,Mechanical,1,C,Faculty Mentor 7,True
+STU0440,Synthetic Student 0440,Data Science,4,B,Faculty Mentor 17,True
+STU0441,Synthetic Student 0441,Civil,1,D,Faculty Mentor 13,True
+STU0442,Synthetic Student 0442,Electronics,3,D,Faculty Mentor 13,True
+STU0443,Synthetic Student 0443,Information Technology,4,B,Faculty Mentor 16,True
+STU0444,Synthetic Student 0444,Electronics,1,C,Faculty Mentor 16,True
+STU0445,Synthetic Student 0445,Data Science,3,D,Faculty Mentor 3,True
+STU0446,Synthetic Student 0446,Civil,3,C,Faculty Mentor 12,True
+STU0447,Synthetic Student 0447,Data Science,1,B,Faculty Mentor 14,True
+STU0448,Synthetic Student 0448,Mechanical,2,A,Faculty Mentor 10,True
+STU0449,Synthetic Student 0449,Civil,1,A,Faculty Mentor 3,True
+STU0450,Synthetic Student 0450,Data Science,3,A,Faculty Mentor 9,True
+STU0451,Synthetic Student 0451,Data Science,3,C,Faculty Mentor 7,True
+STU0452,Synthetic Student 0452,Data Science,3,A,Faculty Mentor 8,True
+STU0453,Synthetic Student 0453,Mechanical,1,A,Faculty Mentor 7,True
+STU0454,Synthetic Student 0454,Mechanical,2,A,Faculty Mentor 3,True
+STU0455,Synthetic Student 0455,Civil,3,B,Faculty Mentor 11,True
+STU0456,Synthetic Student 0456,Electronics,3,D,Faculty Mentor 9,True
+STU0457,Synthetic Student 0457,Civil,4,B,Faculty Mentor 5,True
+STU0458,Synthetic Student 0458,Electronics,3,D,Faculty Mentor 7,True
+STU0459,Synthetic Student 0459,Electronics,4,D,Faculty Mentor 1,True
+STU0460,Synthetic Student 0460,Civil,4,D,Faculty Mentor 15,True
+STU0461,Synthetic Student 0461,Computer Science,3,C,Faculty Mentor 7,True
+STU0462,Synthetic Student 0462,Information Technology,4,D,Faculty Mentor 17,True
+STU0463,Synthetic Student 0463,Computer Science,1,B,Faculty Mentor 12,True
+STU0464,Synthetic Student 0464,Electronics,1,B,Faculty Mentor 10,True
+STU0465,Synthetic Student 0465,Information Technology,1,D,Faculty Mentor 1,True
+STU0466,Synthetic Student 0466,Civil,1,A,Faculty Mentor 9,True
+STU0467,Synthetic Student 0467,Electronics,4,B,Faculty Mentor 12,True
+STU0468,Synthetic Student 0468,Data Science,4,B,Faculty Mentor 3,True
+STU0469,Synthetic Student 0469,Data Science,1,B,Faculty Mentor 2,True
+STU0470,Synthetic Student 0470,Data Science,1,D,Faculty Mentor 15,True
+STU0471,Synthetic Student 0471,Electronics,4,D,Faculty Mentor 1,True
+STU0472,Synthetic Student 0472,Civil,3,C,Faculty Mentor 3,True
+STU0473,Synthetic Student 0473,Computer Science,3,C,Faculty Mentor 11,True
+STU0474,Synthetic Student 0474,Information Technology,3,A,Faculty Mentor 4,True
+STU0475,Synthetic Student 0475,Mechanical,4,D,Faculty Mentor 15,True
+STU0476,Synthetic Student 0476,Computer Science,4,C,Faculty Mentor 14,True
+STU0477,Synthetic Student 0477,Electronics,4,A,Faculty Mentor 2,True
+STU0478,Synthetic Student 0478,Data Science,3,A,Faculty Mentor 17,True
+STU0479,Synthetic Student 0479,Mechanical,3,C,Faculty Mentor 3,True
+STU0480,Synthetic Student 0480,Mechanical,4,B,Faculty Mentor 5,True
+STU0481,Synthetic Student 0481,Data Science,3,C,Faculty Mentor 2,True
+STU0482,Synthetic Student 0482,Data Science,3,D,Faculty Mentor 2,True
+STU0483,Synthetic Student 0483,Information Technology,1,C,Faculty Mentor 4,True
+STU0484,Synthetic Student 0484,Data Science,1,C,Faculty Mentor 17,True
+STU0485,Synthetic Student 0485,Electronics,4,D,Faculty Mentor 17,True
+STU0486,Synthetic Student 0486,Civil,3,B,Faculty Mentor 17,True
+STU0487,Synthetic Student 0487,Computer Science,2,A,Faculty Mentor 1,True
+STU0488,Synthetic Student 0488,Data Science,1,D,Faculty Mentor 11,True
+STU0489,Synthetic Student 0489,Electronics,3,A,Faculty Mentor 7,True
+STU0490,Synthetic Student 0490,Electronics,3,B,Faculty Mentor 6,True
+STU0491,Synthetic Student 0491,Mechanical,2,D,Faculty Mentor 5,True
+STU0492,Synthetic Student 0492,Civil,4,A,Faculty Mentor 15,True
+STU0493,Synthetic Student 0493,Electronics,2,D,Faculty Mentor 10,True
+STU0494,Synthetic Student 0494,Electronics,3,B,Faculty Mentor 5,True
+STU0495,Synthetic Student 0495,Computer Science,1,B,Faculty Mentor 5,True
+STU0496,Synthetic Student 0496,Data Science,3,B,Faculty Mentor 10,True
+STU0497,Synthetic Student 0497,Information Technology,3,D,Faculty Mentor 3,True
+STU0498,Synthetic Student 0498,Electronics,1,B,Faculty Mentor 4,True
+STU0499,Synthetic Student 0499,Computer Science,3,C,Faculty Mentor 3,True
+STU0500,Synthetic Student 0500,Information Technology,4,D,Faculty Mentor 10,True
+STU0501,Synthetic Student 0501,Civil,4,C,Faculty Mentor 3,True
+STU0502,Synthetic Student 0502,Electronics,1,B,Faculty Mentor 6,True
+STU0503,Synthetic Student 0503,Electronics,4,B,Faculty Mentor 15,True
+STU0504,Synthetic Student 0504,Civil,3,A,Faculty Mentor 11,True
+STU0505,Synthetic Student 0505,Electronics,2,C,Faculty Mentor 17,True
+STU0506,Synthetic Student 0506,Data Science,2,A,Faculty Mentor 11,True
+STU0507,Synthetic Student 0507,Data Science,3,C,Faculty Mentor 6,True
+STU0508,Synthetic Student 0508,Civil,3,A,Faculty Mentor 12,True
+STU0509,Synthetic Student 0509,Information Technology,1,A,Faculty Mentor 1,True
+STU0510,Synthetic Student 0510,Mechanical,3,B,Faculty Mentor 6,True
+STU0511,Synthetic Student 0511,Electronics,1,A,Faculty Mentor 17,True
+STU0512,Synthetic Student 0512,Civil,1,C,Faculty Mentor 2,True
+STU0513,Synthetic Student 0513,Computer Science,3,C,Faculty Mentor 6,True
+STU0514,Synthetic Student 0514,Data Science,4,D,Faculty Mentor 15,True
+STU0515,Synthetic Student 0515,Mechanical,3,D,Faculty Mentor 14,True
+STU0516,Synthetic Student 0516,Information Technology,4,A,Faculty Mentor 9,True
+STU0517,Synthetic Student 0517,Electronics,2,C,Faculty Mentor 7,True
+STU0518,Synthetic Student 0518,Data Science,3,B,Faculty Mentor 16,True
+STU0519,Synthetic Student 0519,Computer Science,2,C,Faculty Mentor 18,True
+STU0520,Synthetic Student 0520,Data Science,3,C,Faculty Mentor 10,True
+STU0521,Synthetic Student 0521,Data Science,2,C,Faculty Mentor 17,True
+STU0522,Synthetic Student 0522,Information Technology,1,B,Faculty Mentor 16,True
+STU0523,Synthetic Student 0523,Civil,1,D,Faculty Mentor 15,True
+STU0524,Synthetic Student 0524,Mechanical,4,B,Faculty Mentor 1,True
+STU0525,Synthetic Student 0525,Information Technology,4,A,Faculty Mentor 7,True
+STU0526,Synthetic Student 0526,Civil,2,B,Faculty Mentor 12,True
+STU0527,Synthetic Student 0527,Information Technology,3,B,Faculty Mentor 3,True
+STU0528,Synthetic Student 0528,Data Science,1,C,Faculty Mentor 10,True
+STU0529,Synthetic Student 0529,Information Technology,2,C,Faculty Mentor 6,True
+STU0530,Synthetic Student 0530,Electronics,2,A,Faculty Mentor 16,True
+STU0531,Synthetic Student 0531,Civil,4,A,Faculty Mentor 13,True
+STU0532,Synthetic Student 0532,Civil,2,B,Faculty Mentor 16,True
+STU0533,Synthetic Student 0533,Information Technology,4,D,Faculty Mentor 17,True
+STU0534,Synthetic Student 0534,Mechanical,3,C,Faculty Mentor 11,True
+STU0535,Synthetic Student 0535,Information Technology,1,C,Faculty Mentor 7,True
+STU0536,Synthetic Student 0536,Electronics,4,A,Faculty Mentor 10,True
+STU0537,Synthetic Student 0537,Mechanical,2,B,Faculty Mentor 3,True
+STU0538,Synthetic Student 0538,Civil,1,B,Faculty Mentor 4,True
+STU0539,Synthetic Student 0539,Electronics,2,D,Faculty Mentor 9,True
+STU0540,Synthetic Student 0540,Data Science,3,C,Faculty Mentor 10,True
+STU0541,Synthetic Student 0541,Electronics,3,A,Faculty Mentor 6,True
+STU0542,Synthetic Student 0542,Mechanical,1,D,Faculty Mentor 14,True
+STU0543,Synthetic Student 0543,Computer Science,4,B,Faculty Mentor 15,True
+STU0544,Synthetic Student 0544,Data Science,4,C,Faculty Mentor 15,True
+STU0545,Synthetic Student 0545,Electronics,2,D,Faculty Mentor 9,True
+STU0546,Synthetic Student 0546,Data Science,3,B,Faculty Mentor 1,True
+STU0547,Synthetic Student 0547,Civil,2,D,Faculty Mentor 9,True
+STU0548,Synthetic Student 0548,Information Technology,3,C,Faculty Mentor 7,True
+STU0549,Synthetic Student 0549,Mechanical,2,C,Faculty Mentor 3,True
+STU0550,Synthetic Student 0550,Computer Science,1,C,Faculty Mentor 4,True
+STU0551,Synthetic Student 0551,Data Science,2,C,Faculty Mentor 15,True
+STU0552,Synthetic Student 0552,Civil,2,A,Faculty Mentor 4,True
+STU0553,Synthetic Student 0553,Computer Science,3,A,Faculty Mentor 6,True
+STU0554,Synthetic Student 0554,Mechanical,3,C,Faculty Mentor 12,True
+STU0555,Synthetic Student 0555,Civil,3,A,Faculty Mentor 8,True
+STU0556,Synthetic Student 0556,Data Science,2,A,Faculty Mentor 14,True
+STU0557,Synthetic Student 0557,Mechanical,4,A,Faculty Mentor 4,True
+STU0558,Synthetic Student 0558,Computer Science,4,D,Faculty Mentor 14,True
+STU0559,Synthetic Student 0559,Information Technology,1,B,Faculty Mentor 8,True
+STU0560,Synthetic Student 0560,Computer Science,4,A,Faculty Mentor 14,True

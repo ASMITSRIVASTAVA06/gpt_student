@@ -1,0 +1,10 @@
+student_id,overall_attendance_pct,math_attendance_pct,programming_attendance_pct,lab_attendance_pct
+STU0001,93.4,100.0,75.4,98.6
+STU0002,100.0,95.9,100.0,100.0
+STU0003,92.3,96.9,100.0,91.3
+STU0004,89.0,88.9,81.8,98.1
+STU0005,74.8,70.1,77.4,76.4
+STU0006,92.0,94.0,92.4,100.0
+STU0007,42.0,45.0,39.0,43.0
+STU0008,63.1,60.5,61.3,61.2
+STU8888,152.0,absent,-5.0,60.0

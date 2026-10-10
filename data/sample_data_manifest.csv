@@ -1,0 +1,9 @@
+file,records,columns
+sample_students.csv,560,7
+sample_academics.csv,560,6
+sample_attendance.csv,560,5
+sample_lms.csv,560,5
+sample_engagement.csv,560,6
+sample_placement.csv,560,5
+sample_skills.csv,560,5
+sample_feedback.csv,560,5
